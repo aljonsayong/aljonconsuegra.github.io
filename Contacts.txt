@@ -1,0 +1,22 @@
+
+<html>
+<body background=background.jpg>
+<font color="red">
+<h1>My Personal Website</h1>
+<hr>
+<center>
+<table border=5 bg color= white width=50% font color= white>
+<th><a href="template.html">Home</a></th>
+<th><a href=" about me.html">About me</a></th>
+<th><a href="skills.html">Skills</a></th>
+<th><a href="Contacts.html">Contact</a></th>
+</table>
+</center>
+
+<right>
+<h1 style="font-size:300%;font-family: courier; color:green;"> Contact me at:</h1>
+<p style="font-size:150%;font-family: courier; color:white;"> 09214851686</p>
+</right>
+
+</body>
+</html>

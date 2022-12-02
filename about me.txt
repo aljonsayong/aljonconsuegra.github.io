@@ -1,0 +1,37 @@
+
+<html>
+<body background=Background.jpg>
+<font color="red">
+<h1>My Personal Website</h1>
+<hr>
+<center>
+<table border=5 bg color= white width=50% font color= white>
+<th><a href="template.html">Home</a></th>
+<th><a href=" about me.html">About me</a></th>
+<th><a href="skills.html">Skills</a></th>
+<th><a href="Contacts.html">Contact</a></th>
+</table>
+</center>
+
+<center>
+<h1 style="font-size:300%;font-family: courier; color:green;"> Aljon P. Consuegra</h1>
+<p style="font-size:150%;font-family: courier; color:white;"> I am 19 Years Old  currently  
+<br> Studying at Icct Colleges 2nd year BSIT student
+<br> resides from Antipolo City.
+<br> and love being into sports.</p>
+
+
+<h2 style="font-size:200%;font-family: courier; color:white;">  More about me:</h2>   
+<p style="font-size:150%;font-family: courier; color:white;">
+<br>God's Child
+<br>mapagmahal
+<br>masayahin
+<br>mabait
+<br>Resilient 
+<br>Family oriented
+</p>
+
+
+
+</body>
+</html>
